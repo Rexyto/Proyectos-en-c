@@ -1,6 +1,6 @@
 #  Proyectos de Programación en C
 
-Una colección curada de **desafíos prácticos** diseñados para poner a prueba y mejorar tus habilidades en C. Desde conceptos básicos hasta técnicas avanzadas, cada proyecto está diseñado para enseñarte algo nuevo y útil.
+Una colección de **desafíos prácticos** diseñados para poner a prueba y mejorar tus habilidades en C. Desde conceptos básicos hasta técnicas avanzadas, cada proyecto está diseñado para enseñarte algo nuevo y útil.
 
 ##  ¿Por qué estos proyectos?
 
@@ -125,3 +125,4 @@ Usa este checklist para hacer seguimiento de tu progreso:
 ---
 
 > **"El mejor programador de C no es el que más sabe, sino el que nunca deja de practicar"**
+
