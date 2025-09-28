@@ -280,6 +280,4 @@ Usa este checklist para hacer seguimiento de tu progreso:
 ```
 
 ---
-
->>>>>>> 14c637ae789a6a4ac50b2a6dbb9263ceb88de4c8
 > **"El mejor programador de C no es el que más sabe, sino el que nunca deja de practicar"**
