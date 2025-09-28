@@ -1,6 +1,7 @@
 #  Reto: Intérprete y Conversor Brainfuck
 
 **Dificultad**: ⭐⭐⭐⭐
+
 **Conceptos**: Intérpretes, Parsing, Conversión de archivos, Optimización, Manejo de memoria
 
 ##  Descripción del Reto
@@ -180,3 +181,4 @@ diff special.bin output.bin  # Debe ser idéntico
 - [Brainfuck Algorithms](http://brainfuck.org/)
 - [Optimizaciones de Brainfuck](https://esolangs.org/wiki/Brainfuck_optimizations)
 - [Manejo de archivos binarios en C](https://www.cprogramming.com/tutorial/cfileio.html)
+
