@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #  Proyectos de Programación en C
 
 Una colección de **desafíos prácticos** diseñados para poner a prueba y mejorar tus habilidades en C.
