@@ -1,6 +1,7 @@
 #  Reto: Calculadora Científica con GUI en C
 
 **Dificultad**: ⭐⭐⭐
+
 **Conceptos**: GUI Programming, Windows API, Parsing matemático, Manejo de eventos
 
 ##  Descripción del Reto
@@ -216,5 +217,6 @@ gcc calculadora.c -o calculadora.exe -luser32 -lgdi32 -lm
 - **Gráficos**: Plot de funciones simples
 
 ---
+
 
 **Buena suerte creando tu calculadora científica** 
