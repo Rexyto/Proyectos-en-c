@@ -1,6 +1,7 @@
 #  Reto: Servidor HTTP
 
 **Dificultad**: ⭐⭐⭐⭐
+
 **Conceptos**: Redes, Protocolos HTTP, Programación de sistemas, Multithreading, Gestión de archivos
 
 ##  Descripción del Reto
@@ -200,4 +201,5 @@ Crear un panel de control web para monitorear el servidor.
 - [Multithreading en Windows](https://docs.microsoft.com/en-us/windows/win32/procthread/)
 - [MIME Types Lista Completa](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
 - [HTTP Security Headers](https://owasp.org/www-project-secure-headers/)
+
 - [RESTful API Design](https://restfulapi.net/)
