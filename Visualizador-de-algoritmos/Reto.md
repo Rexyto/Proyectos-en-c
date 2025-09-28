@@ -1,6 +1,7 @@
 #  Reto: Visualizador de Algoritmos de Ordenamiento
 
 **Dificultad**: ⭐⭐⭐  
+
 **Conceptos**: Algoritmos, Representación visual, Depuración, Estructuras de datos  
 
 ##  Descripción del Reto
@@ -158,3 +159,4 @@ visualizador.exe
 ### ASCII Art
 - [ASCII Table](https://www.asciitable.com/)
 - [Técnicas visualización](https://en.wikipedia.org/wiki/ASCII_art)
+
