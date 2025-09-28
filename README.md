@@ -62,6 +62,11 @@ nombre-del-reto/
 -  **Conceptos**: GUI Programming, Windows API, Parsing matemático, Manejo de eventos  
 -  **Aprenderás**: Cómo estructurar programas útiles y reutilizables  
 
+#### `conversor-unidades` ⭐⭐
+**Programa que convierte unidades de longitud, peso, temperatura y volumen**  
+- **Conceptos**: Programación en C, Estructuras, Validación de entrada, Menús interactivos, Manejo de errores  
+- **Aprenderás**: Cómo crear una herramienta útil de conversión de unidades, manejar entrada de usuario segura y organizar datos con estructuras.
+
 ###  Web
 > *"La base de internet moderna"*
 
@@ -69,6 +74,14 @@ nombre-del-reto/
 **Servidor HTTP multithreaded en C con soporte para API RESTful**  
 -  **Conceptos**: Redes, Protocolos HTTP, Programación de sistemas, Multithreading, Gestión de archivos  
 -  **Aprenderás**: Cómo funcionan los servidores web por dentro y cómo manejar múltiples clientes concurrentes  
+
+### Algoritmos y Estructuras de Datos
+> *"Aprender jugando con los fundamentos de la computación"*
+
+#### `sorting-visualizer` ⭐⭐⭐
+**Visualizador interactivo de algoritmos de ordenamiento en C**  
+- **Conceptos**: Algoritmos, Visualización de datos, Depuración paso a paso  
+- **Aprenderás**: Cómo funcionan Bubble, Quick y Merge Sort y cómo se comportan en distintos tipos de datos
 
 ##  Herramientas Necesarias
 
@@ -119,11 +132,11 @@ Usa este checklist para hacer seguimiento de tu progreso:
 - [ ] brainfuck-interpreter
 - [ ] calculadora-científica
 - [ ] http-server
+- [ ] Visualizador-de-algoritmos
+- [ ] Conversor-de-unidades
 
 ```
 
 ---
 
 > **"El mejor programador de C no es el que más sabe, sino el que nunca deja de practicar"**
-
-
